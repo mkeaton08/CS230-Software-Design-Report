@@ -1,6 +1,6 @@
 # Gaming-Room-Software-Design-Doc
 
-# Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
+# Briefly summarize The Gaming Room client and their software requirements.
 The Gaming Room is a company that developed the Android game Draw It or Lose It and wanted to expand it into a web-based game that could run on multiple platforms, including iOS, Android, and web browsers. The software needed to handle multiple users simultaneously and be scalable for future growth, potentially supporting gaming consoles like Xbox and PS4.
 
 # What did you do particularly well in developing this documentation?
